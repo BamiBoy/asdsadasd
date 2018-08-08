@@ -125,7 +125,7 @@ body::after {
 overflow: visible!important;
 }
 .theme-dark .guild-1EfMGQ .guildInner-3DSoA4 {
-    background: linear-gradient(to bottom, #A9A9A9 0%, #A9A9A9 100%)!important;
+    background: linear-gradient(to bottom, var(--main-color) 0%, var(--hover-color) 100%)!important;
 }
 .markup-2BOw-j {
     font-weight: 600!important;
@@ -150,7 +150,7 @@ padding-top: 10px;
 margin-top: 3px;
 padding-bottom: 10px;
 margin-left: var(--margin-size);
-background: linear-gradient(to bottom, var(--main-color) 0%, var(--hover-color) 100%)!important;
+background: linear-gradient(to bottom, #99A9A9A9 0%, #99A9A9A9 100%)!important;
 }
 .markup-2BOw-j,.theme-dark .username-_4ZSMR,.isMentionedCozy-3isp7y:after,
 .imageZoom-1n-ADA,.theme-dark .embedInner-1-fpTo,.embedImage-2W1cML,.reactions,.theme-dark .attachment-33OFj0,.theme-dark .wrapper-35wsBm {
